@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Confribute
 
+Please fork the repositority and then issue Pull Requests for review.
+
 ### Coptright 
 
 2021 Git.Training Summerill Inc.
