@@ -18,4 +18,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ### Coptright 
 
-2021 Git.Training.
+2021 Git.Training Summerill Inc.
