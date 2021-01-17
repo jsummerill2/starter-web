@@ -21,4 +21,4 @@ Please fork the repositority and then issue Pull Requests for review.
 
 ### Coptright 
 
-2021 Git.Training Summerill Inc.
+2021 Git.Training Summerill Inc. All rights reserved.
