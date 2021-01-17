@@ -7,7 +7,8 @@
 
 # THANKS
 
-    Thanks to all that contributed to our application
+    Thanks to all that contributed to our application.
+	Please let us know if you have suggested improvements
 
 # TECHNOLOGY COLOPHON
 
